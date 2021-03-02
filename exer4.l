@@ -5,7 +5,7 @@
 
 DIGIT    [1-9]+   
  
-VAR	 [A-Z]
+VAR	 [A-Za-z]
 
 OP	 [+*/%-]
 
